@@ -127,7 +127,7 @@ The first shot is scored in a special way. Before	shooting,	the	player	who	makes
 - **Safe:**	if	more	than	one	ball	is	legally	shot	down,	he/she	gets	points	for	_only	the	most	valuable	ball_.	In	case	of	a	Foul,	the	Penalty	will	be as	usual	(only the	worst one	of	the numbers involved).
 - **Ballsy:**	if	more	than	one	ball	is	legally	shot	down,	he/she	gets	the	sum	total	of	balls	shot	down	(as	usual).	But	if	the	shot	is	a	Foul,	_the	Penalty	is	summed	up_:	the	sum	total	of	the	penalties	for	every	illegal	event in	that	shot!
 
-If they player doesn't say this out loud to the other players, it's Safe by default.
+If they player doesn't say his choice out loud to the other players, it's Safe by default.
 
 After	the	first	shot,	scoring	is	as	usual,	as	described	earlier.	
 
