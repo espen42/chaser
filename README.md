@@ -37,11 +37,7 @@ with	the	most	points.
 By	making	a	legal	shot	where	at	least	one	(colored,	not	white)	ball	is	shot	down.	The Target doesn't need to be pocketed as long as it's hit first by the cue ball. If	you	shoot	down	more	than	one ball,	you	score	the	sum	of	the	numbers	on	them.
 																																																							 
 #### What	is	a	legal	shot?
-The	lowest	numbered	ball	on	the	table at	any	time is	called	the	Target.	In	a	legal	shot,	
-you	shoot	the	white	cue	ball	and	hit	the	Target	first – before	touching	any	other	ball and	
-without	anything	else	noted	under	”Illegal	shots” happening. In	other	words,	a	legal	shot	
-is	a	shot	where	the	white	ball	does	hit	the	Target,	hits	it	without	hitting	other	balls	first,	
-and	is	not	shot	down	in	a	pocket	or	off	the	table.
+The	lowest	numbered	ball	on	the	table at	any	time is	called	the	Target.	In	a	legal	shot,	you	shoot	the	white	cue	ball	and	hit	the	Target	first – before	touching	any	other	ball and	without	anything	else	noted	under	[Illegal	shots](https://github.com/espen42/chaser/blob/master/README.md#scoringthefirstshot) happening. In	other	words,	a	legal	shot	is	a	shot	where	the	white	ball	does	hit	the	Target,	hits	it	without	hitting	other	balls	first,	and	is	not	shot	down	in	a	pocket	or	off	the	table.
 
 #### What	happens	after	you’ve	made	a	legal	shot?
   - If	no	balls	were	shot	down:	no	score,	and	it’s	the	next	player’s	turn.
@@ -74,7 +70,7 @@ a	higher	number	than	4	is	involved in the shot, by:
 If	several	of	these	events	happen	at	once,	they	_do	not	add	up_;	you’re	only	given	one	
 Penalty.	Choose	the	Penalty	for	the	single highest	numbered	ball	involved	in	the	Foul.
 
-The	only	exception	to	this	is	the	opening	shot,	where	the	shooting	player	may	choose	to	risk	it - see "Scoring the first shot".
+The	only	exception	to	this	is	the	opening	shot,	where	the	shooting	player	may	choose	to	risk	it - see "Scoring the first shot". 
 
 #### Passing	back	a	turn	after	a	Foul
 Usually,	after	a	Foul	you	lose	your	turn	to	the	next	player,	player	X.	However,	after	you’ve	made	a	Foul (and	only	then)	player X is	free	to	choose	to	give	the	turn back to	you – usually	to force	you	to	make	another	difficult	shot	and	possibly	getting	another	penalty. Player	X	can	do	this	for	as	long	as	you	keep	making	Fouls.	If you	score	legally	on	a	shot	you’ve	been	passed	back	from	player	X,	you	get	the	score	and	get a	new	shot	as	in	a regular	turn.
