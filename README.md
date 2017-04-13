@@ -1,5 +1,5 @@
 Complete Rules	to	the	Noble	Game	of	
-# Chaser
+# CHASER
 A	Fine	Pastime	From	the	Expert	Hands	and	Minds	at	Infanteam
 
 
