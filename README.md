@@ -14,7 +14,7 @@ You **score** points	by pocketing balls in a legal shot. The Target ball doesn't
 
 If anything illegal happened during the shot (see the details), it's a **Foul**, and you get a **penalty** instead of scoring (even if the shot was otherwise legal). The	penalty	drawn from the player is	equal	to	the number on _the	single highest	numbered	ball_	that was involved in the shot: hit	out of	sequence, pocketed, touched, or shot off the table. The penalty is always at least 4.
 
-A common way to cause the player after you to get a penalty, is a **Snook**: placing the cue ball and the Target on opposite sides of other balls, so there's no direct way to hit the Target legally.
+A common way to cause the player after you to get a penalty, is a **Snook**: placing the cue ball and the Target in such a position that there's no direct way to hit the Target legally - for example on opposite sides of other balls.
 
 A	player keeps	shooting	until	they	fail	to	pocket	a	ball,	or	make	a	Foul.	After	a	Foul, the	
 next	player	can	choose	to	make	the	shot as	normally, or	**pass it back**: have	the	fouling	player	shoot	
