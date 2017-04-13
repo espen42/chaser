@@ -53,7 +53,7 @@ An	illegal	shot /	_Foul_	is	when	”something	goes	wrong”:	if	any	of	these	eve
 #### What	happens	after	a	Foul?
 - The	player	who	made	the	shot	is	punished	with	a	Penalty:	a	negative	score	/	subtracting	points from	the	player’s	score.	Yes,	you	can	have	a	total score	below	0.
 - If	the	Target	was	pocketed,	it	stays	down,	and	the	next	ball	becomes	the	Target.	Return	any	other	balls	that	were	shot down to	the	table.
-- It’s	the	next	player’s	turn	(if	he/she	accepts	it.	After	a	Foul,	he/she	may pass	the	turn	back	to	you	if	the	position	is	bad. More	on	this in	“Passing	back	a	turn”).
+- It’s	the	next	player’s	turn	(if	he/she	accepts	it.	After	a	Foul,	he/she	may pass	the	turn	back	to	you	if	the	position	is	bad. More	on	this in	[Passing	back	a	turn](https://github.com/espen42/chaser/blob/master/README.md#passingbackaturnafterafoul)).
 
 #### How	bad	is	the	Penalty?
 The	Penalty	is	always	at	least	4	points. But	it	may	be	even worse	if	a	numbered	ball	with	a	higher	number	than	4	is	involved in the shot, by:
