@@ -3,11 +3,11 @@ CACHE MANIFEST
 #plugin:4.6.2
 
 CACHE:
-../../images/fontawesome-webfont.svg
-../../fonts/fontawesome-webfont.ttf
-../../fonts/fontawesome-webfont.woff
-../../images/roboto+condensed-300.svg
-../../images/playfair+display-400.svg
+../images/fontawesome-webfont.svg
+../fonts/fontawesome-webfont.ttf
+../fonts/fontawesome-webfont.woff
+../images/roboto+condensed-300.svg
+../images/playfair+display-400.svg
 ../js/app_c23052f73f.js
 ../js/vendor_7273e2b296.js
 ../css/app_76a80afe6a.css
