@@ -24,20 +24,36 @@ The game is over when ball 15 is the Target, and is pocketed. **The winner** is 
 ## THE	DETAILS:
 
 [Who	can	play	and	where?](https://github.com/espen42/chaser/blob/master/README.md#whocanplayandwhere)
+
 [For	how	long?	Who	wins?](https://github.com/espen42/chaser/blob/master/README.md#forhowlongwhowins)
+
 [How	do	you	score	points?](https://github.com/espen42/chaser/blob/master/README.md#howdoyouscorepoints)
+
 [What	is	a	legal	shot?](https://github.com/espen42/chaser/blob/master/README.md#whatisalegalshot)
+
 [What	happens	after	you’ve	made	a	legal	shot?](https://github.com/espen42/chaser/blob/master/README.md#whathappensafteryouvemadealegalshot)
+
 [What	is	an	illegal	shot?](https://github.com/espen42/chaser/blob/master/README.md#whatisanillegalshot)
+
 [What	happens	after	a	Foul?](https://github.com/espen42/chaser/blob/master/README.md#whathappensafterafoul)
+
 [How	bad	is	the	Penalty?](https://github.com/espen42/chaser/blob/master/README.md#howbadisthepenalty)
+
 [Passing	back	a	turn	after	a	Foul](https://github.com/espen42/chaser/blob/master/README.md#passingbackaturnafterafoul)
+
 [Snooking](https://github.com/espen42/chaser/blob/master/README.md#snooking)
+
 [Returning	colored	balls	to	the	table](https://github.com/espen42/chaser/blob/master/README.md#returningcoloredballstothetable)
+
 [Returning	the	white cue ball	to	the	table,	and	doing	the	next	shot](https://github.com/espen42/chaser/blob/master/README.md#returningthewhite-cue-balltothetableanddoingthenextshot)
+
 [Setting	up	the	game](https://github.com/espen42/chaser/blob/master/README.md#settingupthegame)
+
 [Scoring the first shot](https://github.com/espen42/chaser/blob/master/README.md#scoringthefirstshot)
+
 [Sequence	of	the	players’ turns](https://github.com/espen42/chaser/blob/master/README.md#passingbackaturnafterafoul)
+
+---
 
 #### Who	can	play	and	where?
 Chaser	is	played	on	a	standard	pool	table with	6	pockets,	between 2	or	more	players,	with all 15	colored and	numbered	balls	and	one	white cue ball. Any number of player can play in one game. The sequence between the players is optional: the same in every round, random, or by score in ascending or descending order. 
