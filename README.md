@@ -46,9 +46,9 @@ and	is	not	shot	down	in	a	pocket	or	off	the	table.
 #### What	happens	after	you’ve	made	a	legal	shot?
   - If	no	balls	were	shot	down:	no	score,	and	it’s	the	next	player’s	turn.
   - If	any	balls	were	(legally)	shot	down,	including	the	Target:	
-    o First,	note	your	score:	the	sum	of	numbers	on	the	balls that	were	pocketed
-    o Then,	if	any	balls	were	shot	down	other	than	the	Target,	return	them	to	the	table	as	described under	“Returning	colored	balls”.	If the	Target was	shot	down, it	stays	down.	The	next	lowest-numbered	ball	on	the	table becomes	the new	Target.
-    o Then,	you	can	shoot	again.
+    - First,	note	your	score:	the	sum	of	numbers	on	the	balls that	were	pocketed
+    - Then,	if	any	balls	were	shot	down	other	than	the	Target,	return	them	to	the	table	as	described under	“Returning	colored	balls”.	If the	Target was	shot	down, it	stays	down.	The	next	lowest-numbered	ball	on	the	table becomes	the new	Target.
+    - Then,	you	can	shoot	again.
     
 #### What	is	an	illegal	shot?
 An	illegal	shot	is	called	a	_Foul_.	A	Foul	is	when	”something	goes	wrong”,	specifically	if	any	
