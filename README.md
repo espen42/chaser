@@ -70,7 +70,7 @@ a	higher	number	than	4	is	involved in the shot, by:
 If	several	of	these	events	happen	at	once,	they	_do	not	add	up_;	you’re	only	given	one	
 Penalty.	Choose	the	Penalty	for	the	single highest	numbered	ball	involved	in	the	Foul.
 
-The	only	exception	to	this	is	the	opening	shot,	where	the	shooting	player	may	choose	to	risk	it - see "Scoring the first shot". 
+The	only	exception	to	this	is	the	opening	shot,	where	the	shooting	player	may	choose	to	risk	it - see [Scoring the first shot](https://github.com/espen42/chaser/blob/master/README.md#scoringthefirstshot). 
 
 #### Passing	back	a	turn	after	a	Foul
 Usually,	after	a	Foul	you	lose	your	turn	to	the	next	player,	player	X.	However,	after	you’ve	made	a	Foul (and	only	then)	player X is	free	to	choose	to	give	the	turn back to	you – usually	to force	you	to	make	another	difficult	shot	and	possibly	getting	another	penalty. Player	X	can	do	this	for	as	long	as	you	keep	making	Fouls.	If you	score	legally	on	a	shot	you’ve	been	passed	back	from	player	X,	you	get	the	score	and	get a	new	shot	as	in	a regular	turn.
