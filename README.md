@@ -51,8 +51,8 @@ and	is	not	shot	down	in	a	pocket	or	off	the	table.
     - Then,	you	can	shoot	again.
     
 #### What	is	an	illegal	shot?
-An	illegal	shot	is	called	a	_Foul_.	A	Foul	is	when	”something	goes	wrong”,	specifically	if	any	
-of	these	events	occur (and	any	of	them	will	turn	an	otherwise legal	shot	into	a	Foul):
+An	illegal	shot /	_Foul_	is	when	”something	goes	wrong”:	if	any	
+of	these	events	occur (and importantly:	any	one of	them	will	turn	an	otherwise legal	shot	into	a	Foul):
 - The	cue	ball	misses	the	Target,	
 - The	cue	ball	touches	another	ball	before	hitting	the	Target,
 - The	cue	ball	is	shot	down into a pocket.
