@@ -16,9 +16,7 @@ If anything illegal happened during the shot (see the details), it's a **Foul**,
 
 A common way to cause the player after you to get a penalty, is a **Snook**: placing the cue ball and the Target in such a position that there's no direct way to hit the Target legally - for example on opposite sides of other balls.
 
-A	player keeps	shooting	until	they	fail	to	pocket	a	ball,	or	make	a	Foul.	After	a	Foul, the	
-next	player	can	choose	to	make	the	shot as	normally, or	**pass it back**: have	the	fouling	player	shoot	
-again	– possibly	for	another	penalty. 
+A	player keeps	shooting	until	they	fail	to	pocket	a	ball,	or	make	a	Foul.	After	a	Foul, the	next	player	can	choose	to	make	the	shot as	normally, or **pass it back**: have	the	fouling	player	shoot	again	– possibly	for	another	penalty. 
 
 The game is over when ball 15 is the Target, and is pocketed. **The winner** is the player with the most points.
 
@@ -26,12 +24,10 @@ The game is over when ball 15 is the Target, and is pocketed. **The winner** is 
 ## THE	DETAILS:
 
 #### Who	can	play	and	where?
-Chaser	is	played	on	a	standard	pool	table with	6	pockets,	between 2	or	more	
-players,	with all 15	colored and	numbered	balls	and	one	white cue ball. Any number of player can play in one game. The sequence between the players is optional: the same in every round, random, or by score in ascending or descending order. 
+Chaser	is	played	on	a	standard	pool	table with	6	pockets,	between 2	or	more	players,	with all 15	colored and	numbered	balls	and	one	white cue ball. Any number of player can play in one game. The sequence between the players is optional: the same in every round, random, or by score in ascending or descending order. 
 
 #### For	how	long?	Who	wins?
-The	game	goes	on	until all	15	balls	are	shot	down,	in sequence.	The	winner	is	the	player	
-with	the	most	points.
+The	game	goes	on	until all	15	balls	are	shot	down,	in sequence.	The	winner	is	the	player	with	the	most	points.
 
 #### How	do	you	score	points?
 By	making	a	legal	shot	where	at	least	one	(colored,	not	white)	ball	is	shot	down.	The Target doesn't need to be pocketed as long as it's hit first by the cue ball. If	you	shoot	down	more	than	one ball,	you	score	the	sum	of	the	numbers	on	them.
@@ -43,12 +39,11 @@ The	lowest	numbered	ball	on	the	table at	any	time is	called	the	Target.	In	a	leg
   - If	no	balls	were	shot	down:	no	score,	and	it’s	the	next	player’s	turn.
   - If	any	balls	were	(legally)	shot	down,	including	the	Target:	
     - First,	note	your	score:	the	sum	of	numbers	on	the	balls that	were	pocketed
-    - Then,	if	any	balls	were	shot	down	other	than	the	Target,	return	them	to	the	table	as	described under	“Returning	colored	balls”.	If the	Target was	shot	down, it	stays	down.	The	next	lowest-numbered	ball	on	the	table becomes	the new	Target.
+    - Then,	if	any	balls	were	shot	down	other	than	the	Target,	return	them	to	the	table	as	described under	[Returning	colored	balls](https://github.com/espen42/chaser/blob/master/README.md#returningcoloredballstothetable).	If the	Target was	shot	down, it	stays	down.	The	next	lowest-numbered	ball	on	the	table becomes	the new	Target.
     - Then,	you	can	shoot	again.
     
 #### What	is	an	illegal	shot?
-An	illegal	shot /	_Foul_	is	when	”something	goes	wrong”:	if	any	
-of	these	events	occur (and importantly:	any	one of	them	will	turn	an	otherwise legal	shot	into	a	Foul):
+An	illegal	shot /	_Foul_	is	when	”something	goes	wrong”:	if	any	of	these	events	occur (and importantly:	any	one of	them	will	turn	an	otherwise legal	shot	into	a	Foul):
 - The	cue	ball	misses	the	Target,	
 - The	cue	ball	touches	another	ball	before	hitting	the	Target,
 - The	cue	ball	is	shot	down into a pocket.
@@ -61,55 +56,34 @@ of	these	events	occur (and importantly:	any	one of	them	will	turn	an	otherwise l
 - It’s	the	next	player’s	turn	(if	he/she	accepts	it.	After	a	Foul,	he/she	may pass	the	turn	back	to	you	if	the	position	is	bad. More	on	this in	“Passing	back	a	turn”).
 
 #### How	bad	is	the	Penalty?
-The	Penalty	is	always	at	least	4	points. But	it	may	be	even worse	if	a	numbered	ball	with	
-a	higher	number	than	4	is	involved in the shot, by:
+The	Penalty	is	always	at	least	4	points. But	it	may	be	even worse	if	a	numbered	ball	with	a	higher	number	than	4	is	involved in the shot, by:
 - missing	the	Target:	the	number	on	the	Target
 - touching	another	ball	before	the	Target:	the	number	on	that	other	ball
 - any	ball	was	shot	off	the	table:	the	number	on	that	ball
 - any	ball	was	(otherwise	legally)	shot	down	in	a	Foul:	the	number	on	that	ball
-If	several	of	these	events	happen	at	once,	they	_do	not	add	up_;	you’re	only	given	one	
-Penalty.	Choose	the	Penalty	for	the	single highest	numbered	ball	involved	in	the	Foul.
+If	several	of	these	events	happen	at	once,	they	_do	not	add	up_;	you’re	only	given	one	Penalty.	Choose	the	Penalty	for	the	single highest	numbered	ball	involved	in	the	Foul.
 
 The	only	exception	to	this	is	the	opening	shot,	where	the	shooting	player	may	choose	to	risk	it - see [Scoring the first shot](https://github.com/espen42/chaser/blob/master/README.md#scoringthefirstshot). 
 
 #### Passing	back	a	turn	after	a	Foul
 Usually,	after	a	Foul	you	lose	your	turn	to	the	next	player,	player	X.	However,	after	you’ve	made	a	Foul (and	only	then)	player X is	free	to	choose	to	give	the	turn back to	you – usually	to force	you	to	make	another	difficult	shot	and	possibly	getting	another	penalty. Player	X	can	do	this	for	as	long	as	you	keep	making	Fouls.	If you	score	legally	on	a	shot	you’ve	been	passed	back	from	player	X,	you	get	the	score	and	get a	new	shot	as	in	a regular	turn.
 
-After	you’ve	made	a	legal	shot without scoring,	it’s	player	X’s	turn -	and	now,	he	must	accept	it.	
+After	you’ve	made	a	legal	shot without scoring,	it’s	player	X’s	turn -	and	now,	they	must	accept	it.	
 
 #### Snooking
-A	_Snook_	is	when	the	white	ball after	a	legal	shot	ends	up in	a	position	where	there	is	no	
-possible	direct	path	to the	Target.	Nothing	in	particular	happens	here,	but the	player	
-making	the	shot	will have a more difficult shot to avoid	a	penalty.
+A	_Snook_	is	when	the	white	ball after	a	legal	shot	ends	up in	a	position	where	there	is	no	possible	legal and direct	path	to the	Target.	Nothing	in	particular	happens	here,	but the	player	making	the	shot	will have a more difficult shot to avoid	a	penalty.
 
-Doing	this	on	purpose	with	a	legal	shot	(Snooking	the	next	player) is	a	common	
-strategy	early in the	game,	because of the	many	colored	balls	to	obstruct	the	path	
-between	the	white	ball	and	the	Target.	A	Foul	where	the	cue ball ends	up	in	a	Snook	is	
-the	most	common	reason	for	the	next	player	to	pass	the	turn	back	to	the	previous	player
-(Snooking	yourself).
+Doing	this	on	purpose	with	a	legal	shot	(Snooking	the	next	player) is	a	common	strategy	early in the	game,	because of the	many	colored	balls	to	obstruct	the	path	between	the	white	ball	and	the	Target.	A	Foul	where	the	cue ball ends	up	in	a	Snook	is	the	most	common	reason	for	the	next	player	to	pass	the	turn	back	to	the	previous	player (Snooking	yourself).
 
 #### Returning	colored	balls	to	the	table
-Colored	balls	(except	the	Target) are	returned	to	the	table	whenever	they	are	shot	down.	
-The	Target	stays	down,	and	the	next	ball in sequence	becomes	the	new	Target to	chase.	All	colored	
-balls, including the	Target, are of	course	returned	if	they	are	shot	off	the	table.
+Colored	balls	(except	the	Target) are	returned	to	the	table	whenever	they	are	shot	down.	The	Target	stays	down,	and	the	next	ball in sequence	becomes	the	new	Target to	chase.	All	colored	balls, including the	Target, are of	course	returned	if	they	are	shot	off	the	table.
 
-**Position:**	they	should	be	placed as	close	as	possible	(without	moving	other	balls	
-on	the	table)	to	the	Foot	Spot	(the	point	that	was	the	front	corner	in	the	beginning	
-triangle). If	more	than	one	ball	was	shot	down,	or	if	the	space	is	occupied	by	other	balls	
-on	the	table,	the	next	balls	are	placed from	there in	a	straight	line	backwards	toward	the	
-back	edge	of	the	table. If	more	than	one	ball	is	returned,	start	with	the	lowest	numbered,	
-and	go backwards	in	sequence.		
+**Position:**	they	should	be	placed as	close	as	possible	(without	moving	other	balls	on	the	table)	to	the	Foot	Spot	(the	point	that	was	the	front	corner	in	the	beginning	triangle). If	more	than	one	ball	was	shot	down,	or	if	the	space	is	occupied	by	other	balls	on	the	table,	the	next	balls	are	placed from	there in	a	straight	line	backwards	toward	the	back	edge	of	the	table. If	more	than	one	ball	is	returned,	start	with	the	lowest	numbered,	and	go backwards toward the edge of the table, by ball number	in	sequence.		
 
-Note	that	this	can	sometimes	produce	a	Snook,	if	a	ball	is	returned	to	a	position	
-between	the	white	ball	and	the	next	Target.	As	usual,	if	the	previous	shot	was	a	legal	
-and	scoring	shot,	the	player	must	shoot	again	- he/she	may	not pass	the	turn	to	the	next	
-player.	If	the	previous	shot	was	a	Foul,	the	next	player	may	pass	it	back	at	will.
+Note	that	this	can	sometimes	produce	a	Snook,	if	a	ball	is	returned	to	a	position	between	the	white	ball	and	the	next	Target.	As	usual,	if	the	previous	shot	was	a	legal	and	scoring	shot,	the	player	must	shoot	again	- he/she	may	not pass	the	turn	to	the	next	player.	If	the	previous	shot	was	a	Foul,	the	next	player	may	pass	it	back	at	will.
 
 #### Returning	the	white cue ball	to	the	table,	and	doing	the	next	shot
-The	cue	ball	is	returned	whenever	shot	down	or	off	the	table.	It	should	be	placed wherever	the	shooting	player	
-chooses	inside	the	rectangular starting	area	on	the	table (the	Kitchen	area).	
-It	can	be	shot	in	any	direction,	but	_may	not	hit	any	colored	ball	before	leaving	the	
-starting area_.	
+The	cue	ball	is	returned	whenever	shot	down	or	off	the	table.	It	should	be	placed wherever	the	shooting	player	chooses	inside	the	rectangular starting	area	on	the	table (the	Kitchen	area).	It	can	be	shot	in	any	direction,	but	_may	not	hit	any	colored	ball	before	leaving	the	starting area_.	
 
 _This	means	that	if	the	Target	ball	is	inside	the	starting	area,	it’s	a	Snook!_
 
@@ -128,10 +102,7 @@ If they player doesn't say his choice out loud to the other players, it's Safe b
 After	the	first	shot,	scoring	is	as	usual,	as	described	earlier.	
 
 #### Sequence	of	the	players’ turns
-It’s	recommended, but	not	necessary, to	jumble	or	vary	the	sequence	of	players	from	
-one	game	to	the	next,	since	the	ability	to	Snook	the	next	player	can	have	a	big	impact	on	
-the	next	player’s	score.	One	suggestion	is	to	play	in	the	sequence	of	scoring	from	the	previous game	–
-lowest	to	highest.
+It’s	recommended, but	not	necessary, to	jumble	or	vary	the	sequence	of	players	from	one	game	to	the	next,	since	the	ability	to	Snook	the	next	player	can	have	a	big	impact	on	the	next	player’s	score.	One	suggestion	is	to	play	in	the	sequence	of	scoring	from	the	previous game	– lowest	to	highest.
 
 ---
 
