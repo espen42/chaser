@@ -138,4 +138,4 @@ It’s	recommended, but	not	necessary, to	jumble	or	vary	the	sequence	of	players
 
 ---
 
-More	terms: http://en.wikipedia.org/wiki/Glossary_of_cue_sports_terms
+More	terms: [http://en.wikipedia.org/wiki/Glossary\_of\_cue\_sports\_terms](http://en.wikipedia.org/wiki/Glossary_of_cue_sports_terms)
