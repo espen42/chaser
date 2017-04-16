@@ -2,36 +2,50 @@ var __wpo = {
   "assets": {
     "main": [
       "./images/fontawesome-webfont.svg",
+      "./fonts/fontawesome-webfont.eot",
       "./fonts/fontawesome-webfont.ttf",
+      "./fonts/fontawesome-webfont.woff2",
       "./fonts/fontawesome-webfont.woff",
       "./images/roboto+condensed-300.svg",
       "./images/playfair+display-400.svg",
+      "./fonts/playfair+display-400.ttf",
+      "./fonts/playfair+display-400italic.ttf",
+      "./fonts/playfair+display-900.ttf",
+      "./fonts/playfair+display-900italic.ttf",
       "./js/app_c23052f73f.js",
       "./js/vendor_7273e2b296.js",
-      "./css/app_76a80afe6a.css",
+      "./css/app_7659c22f6d.css",
       "./",
-      "./"
+      "./",
+      "./images/icon15.png"
     ],
     "additional": [],
     "optional": []
   },
   "externals": [
-    "./"
+    "./",
+    "./images/icon15.png"
   ],
   "hashesMap": {
     "c0522272bbaef2acb3d341912754d6ea2d0ecfc0": "./images/fontawesome-webfont.svg",
+    "965ce8f688fedbeed504efd498bc9c1622d12362": "./fonts/fontawesome-webfont.eot",
     "61d8d967807ef12598d81582fa95b9f600c3ee01": "./fonts/fontawesome-webfont.ttf",
+    "97e438cc545714309882fbceadbf344fcaddcec5": "./fonts/fontawesome-webfont.woff2",
     "6d7e6a5fc802b13694d8820fc0138037c0977d2e": "./fonts/fontawesome-webfont.woff",
     "7c168f5b71b05caf90b5710fb3cf4b193dd02f9b": "./images/roboto+condensed-300.svg",
     "6897568397e6158e8d9f925169301f5138129285": "./images/playfair+display-400.svg",
+    "6e341c53355b235d125f858cde24ee0246bba4f7": "./fonts/playfair+display-400.ttf",
+    "ca3b85d36fd1f0b33af817f3ae764ad5b2cbbd80": "./fonts/playfair+display-400italic.ttf",
+    "f27786594c96867b144fb4af507457a4c4c4f70b": "./fonts/playfair+display-900.ttf",
+    "0846ce518fe84106531a8e2d4cca6a7521b4168a": "./fonts/playfair+display-900italic.ttf",
     "8365abe98b7f491bd09f877313d6d8ba7b8a52e7": "./js/app_c23052f73f.js",
     "40d02b9b9e93a259a81dd52708fb15c04ec96fa3": "./js/vendor_7273e2b296.js",
-    "87bbbac14bfcaf77fc7f6932a00b3c44b51a0b87": "./css/app_76a80afe6a.css",
-    "399e8d0fbfdb7426314a6e615d2d159222f190af": "./"
+    "0384ff416ca72b2d8d504f6d27f0696210235b2a": "./css/app_7659c22f6d.css",
+    "68bcab03c92838a543462aadaeaca5f9c46f4401": "./"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "4/13/2017, 8:34:21 PM",
+  "version": "4/16/2017, 3:57:42 PM",
   "name": "webpack-offline",
   "pluginVersion": "4.6.2",
   "relativePaths": true

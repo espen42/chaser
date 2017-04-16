@@ -1,18 +1,25 @@
 CACHE MANIFEST
-#ver:4/13/2017, 8:34:21 PM
+#ver:4/16/2017, 3:57:42 PM
 #plugin:4.6.2
 
 CACHE:
 ../images/fontawesome-webfont.svg
+../fonts/fontawesome-webfont.eot
 ../fonts/fontawesome-webfont.ttf
+../fonts/fontawesome-webfont.woff2
 ../fonts/fontawesome-webfont.woff
 ../images/roboto+condensed-300.svg
 ../images/playfair+display-400.svg
+../fonts/playfair+display-400.ttf
+../fonts/playfair+display-400italic.ttf
+../fonts/playfair+display-900.ttf
+../fonts/playfair+display-900italic.ttf
 ../js/app_c23052f73f.js
 ../js/vendor_7273e2b296.js
-../css/app_76a80afe6a.css
+../css/app_7659c22f6d.css
 ../
 ../
+../images/icon15.png
 
 NETWORK:
 *
